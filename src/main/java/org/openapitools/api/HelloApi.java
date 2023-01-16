@@ -31,7 +31,7 @@ import java.util.Map;
 import java.util.Optional;
 import javax.annotation.Generated;
 
-@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2023-01-16T15:29:40.723699Z[Etc/UTC]")
+@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2023-01-16T15:38:03.016547Z[Etc/UTC]")
 @Validated
 @Tag(name = "hello", description = "the hello API")
 public interface HelloApi {
